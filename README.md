@@ -1,20 +1,21 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+-Sveinbjorn Berent Birgisson
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Man ekki allveg hvad var verid ad spyrja um i hvert skipti.
+Byrjadi allavega a dvi ad setja upp VirtualBox og samthikkja helling af stillingum um hvad eg vildi leifa ubunt ad nota mikid af tolvunni.
+Thad byrjadi a thvi ad spyrja mig um hvada landi eg vaeri i, lyklabordstungual og lykilord a adganginn minn. Ekkert flokid og frekar augljost.
+![Alt text](/home/sven/Desktop/Capture best.png)
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Mjog lett, bara skrifa inn og eftir sma stund komid.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Ekkert mal ef madur fylgir leidbeiningonum bara. sa vesen ad finna log in infoid mitt aftur en annars voda litid vesen.
 
 ## 4. Uppsettur hugbúnaður
 
