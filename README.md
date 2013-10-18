@@ -15,11 +15,23 @@ Mjog lett, bara skrifa inn og eftir sma stund komid.
 
 ## 3. Unnið með Git (1. hluti)
 
-Ekkert mal ef madur fylgir leidbeiningonum bara. sa vesen ad finna log in infoid mitt aftur en annars voda litid vesen.
+Ekkert mal ef madur fylgir leidbeiningonum bara. 
+sma vesen ad finna log in infoid mitt aftur en annars voda litid vesen.
+Her er tengillinn[GitHub](https://github.com/SveinbjornB/INTOPrufa)
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+-VLC
+  [Download](http://www.videolan.org/vlc/download-sources.html)
+  [License](http://www.gnu.org/licenses/gpl-2.0.html)
+
+-Python
+  [Download](http://www.python.org/getit/source)
+  [License](http://docs.python.org/2/license.html "skrolla adeins nidur")
+
+-Firefox
+  [Download](https://developer.mozilla.org/en-US/docs/Developer_guide/Source_Code/Downloading_Source_Archives?redirectlocale=en-US&redirectslug=Mozilla_Source_Code_%28HTTP%2FFTP%29)
+  [License](http://www.mozia.org/MPL/#source-code)
 
 ## 5. Unnið með Git (2. hluti)
 
